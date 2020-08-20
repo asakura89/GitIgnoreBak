@@ -1,6 +1,4 @@
-*               text=auto
-
-# Visual Studio
+# > Visual Studio
 *.cs            text diff=csharp
 *.csx           text diff=csharp
 *.vb            text
@@ -45,7 +43,7 @@
 
 *.dll           binary
 
-# Documents
+# > Documents
 *.doc           diff=astextplain
 *.DOC           diff=astextplain
 *.docx          diff=astextplain
@@ -69,7 +67,8 @@
 *.tab           text
 *.tsv           text
 
-# Graphics
+
+# > Graphics
 *.png           binary
 *.jpg           binary
 *.jpeg          binary
@@ -80,7 +79,8 @@
 *.svg           binary
 *.eps           binary
 
-# Other
+
+# > Other
 *.sh            text
 *.cmd           text
 *.sql           text
@@ -94,7 +94,8 @@
 *.xml           text
 *.resx          text
 
-# Custom
+
+# > Custom
 *.ejx           text
 *.min.ejx       binary
 *.eqx           text

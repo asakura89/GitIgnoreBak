@@ -36,20 +36,19 @@ local.properties
 .vs/**/*.*
 *config*.json
 
-# > Publish Profile
+# > VisualStudio Publish Profile
 [Pp]ublish[Pp]rofiles/
 
-# > User-specific files
+# > VisualStudio User-specific files
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
 
-# > User-specific files (MonoDevelop/Xamarin Studio)
+# > VisualStudio User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-# > Build results
-
+# > VisualStudio Build results
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
@@ -61,10 +60,10 @@ bld/
 [Bb]in/
 [Oo]bj/
 
-# > Roslyn cache directories
+# > VisualStudio Roslyn cache directories
 *.ide/
 
-# > MSTest test Results
+# > VisualStudio MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
@@ -129,19 +128,19 @@ $tf/
 # > Guidance Automation Toolkit
 *.gpState
 
-# > ReSharper is a .NET coding add-in
+# > ReSharper
 _ReSharper*/
 *.[Rr]e[Ss]harper
 *.[Dd]ot[Ss]ettings
 *.[Dd]ot[Ss]ettings.user
 
-# > JustCode is a .NET coding add-in
+# > JustCode
 .JustCode
 
-# > TeamCity is a build add-in
+# > TeamCity
 _TeamCity*
 
-# > DotCover is a Code Coverage Tool
+# > DotCover
 *.dotCover
 
 # > NCrunch
@@ -159,7 +158,7 @@ AutoTest.Net/
 # > Installshield output folder
 [Ee]xpress/
 
-# > DocProject is a documentation generator add-in
+# > DocProject
 DocProject/buildhelp/
 DocProject/Help/*.HxT
 DocProject/Help/*.HxC
@@ -180,7 +179,7 @@ publish/
 *.pubxml
 *.pubxml.user
 
-# > nuget folder
+# > NuGet folder
 .nuget/
 nuget/
 
@@ -262,10 +261,10 @@ ModelManifest.xml
 Thumbs.db
 ehthumbs.db
 
-# > Folder config file
+# > Windows Folder config file
 Desktop.ini
 
-# > Recycle Bin used on file shares
+# > Windows Recycle Bin used on file shares
 $RECYCLE.BIN/
 
 # > Mac desktop service store files
@@ -301,4 +300,3 @@ pip-log.txt
 
 # > Translations
 *.mo
-
